@@ -1,1 +1,1 @@
-Test for clone
+Test for pull
